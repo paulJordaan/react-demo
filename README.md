@@ -5,15 +5,14 @@ React example app basic React API functionality
 ## Installation
 
 ### Server
+Run `npm install` inside the root directory
 
 ### Client
-### `npm install`
+Run `npm install` inside the client (`./client`) directory
 
 ## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
