@@ -1,0 +1,21 @@
+{
+  "watches": [{
+    "id": 1,
+    "name": "Swatch Classic",
+    "make": "Swatch",
+    "price": 500,
+    "warranty": 1
+  }, {
+    "id": 2,
+    "name": "Swatch Sport",
+    "make": "Swatch",
+    "price": 1500,
+    "warranty": 3
+  }, {
+    "id": 3,
+    "name": "Rolex Gold",
+    "make": "Rolex",
+    "price": 10000,
+    "warranty": 3
+  }]
+}
